@@ -1,3 +1,8 @@
-# [jobs](https://github.com/BemteviSeguros/jobs)
-# Meet the team
-![the_team](https://user-images.githubusercontent.com/5133450/221673401-a4abe3e3-cfd3-456c-a87e-dd94d5fae7a2.png)
+
+<div align="center">
+  <img width="75" src="https://github.com/user-attachments/assets/f057b59e-cfad-47b7-b4df-df8dd0f91b2b">
+  
+  ## bem-te-vi
+  ## Com a bem-te-vi, qualquer empresa pode distribuir seguros!
+</div>
+
